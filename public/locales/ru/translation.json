@@ -1,0 +1,18 @@
+{
+    "title": "Uzum Market",
+    "navbar-collection": {
+        "locatoin": " Город:   Ташкент ",
+        "punkt": "Пункты выдачи ",
+        "yetkazish": " Доставим ваш заказ бесплатно — всего за 1 день! ",
+        "sotish": " Продавайте на Uzum ",
+        "savollar": " Вопрос-ответ ",
+        "buyurtmalar": " Мои заказы "
+    },
+    "navbar": {
+        "katalog": " Каталог ",
+        "searchPL": "Искать товары и категории",
+        "kirish": " Войти ",
+        "saralangan": " Избранное ",
+        "savat": " Корзина "
+    }
+}
